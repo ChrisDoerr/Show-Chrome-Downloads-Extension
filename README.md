@@ -12,4 +12,3 @@ There, activate **"Allow in Incognito"**
 
 ## Credits
 The icon is based off [SVG Repo](https://www.svgrepo.com)
-# Show-Chrome-Downloads-Extension
